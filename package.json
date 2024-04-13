@@ -1,0 +1,14 @@
+{
+  "name": "testing-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test-run": "vitest --reporter verbose --run",
+    "test-watch": "vitest --reporter verbose"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5",
+    "vitest": "^1.5.0"
+  }
+}
